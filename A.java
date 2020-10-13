@@ -1,6 +1,6 @@
 //Created by Pooja 
 //5 oct 2019
-//program file which uses extends keyword(indicates that a class is inherited from another class)
+//Program file explains inheritance using extends keyword(indicates that a class is inherited from another class)
 
 import java.lang.*;
 import java.io.*; 
