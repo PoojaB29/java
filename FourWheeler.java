@@ -1,6 +1,6 @@
 //Created by Pooja
 //on 4 oct 2019
-//Program shows implementation of throws keyword to declare an exception.
+//Program shows implementation of throws keyword to declare an exception in java.
 
 import java.lang.*;
 import java.util.*;
