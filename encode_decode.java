@@ -1,6 +1,6 @@
 //Created by Pooja
 //On 10 Oct 2020
-//This program serialize and deserialize binary search tree.
+//This program serialize and deserialize binary search tree using java.
 
 /**
  * Definition for a binary tree node.
