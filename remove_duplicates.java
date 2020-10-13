@@ -1,6 +1,6 @@
 //Created by Pooja
 //On 12 Oct 2020
-// This program is implemented to remove dublicate letters from the given string.  
+// This program is implemented to remove dublicate letters from the given string and print the resultant string in lexicographical order.  
 
 class Solution {
     public String removeDuplicateLetters(String s) {
