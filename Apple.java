@@ -1,6 +1,6 @@
 //Created by Pooja
 //On 5 oct 2019
-//The program shows the implementation of vector(dynamic array).
+//The program shows the implementation of vector(dynamic array) in java.
 
 import java.lang.*;
 import java.io.*; 
