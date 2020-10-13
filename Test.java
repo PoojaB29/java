@@ -1,7 +1,6 @@
 //Created by Pooja
 //On 5 Oct 2019
-//File explains extends keyword
-
+//File explains multilevel inheritance using extends keyword.
 
 import java.lang.*;
 import java.io.*; 
