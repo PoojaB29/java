@@ -1,6 +1,6 @@
 //Created by Pooja
 //On 5 Oct 2019
-//The programs icludes applet program and try-catch block 
+//The programs includes applet program and try-catch block 
 
 import java.applet.*;
 import java.awt.*;
